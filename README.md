@@ -1,28 +1,56 @@
-📊 Excel Assignment Project
+# 📊 Advanced Excel Practice Sheet Project
 
-This project demonstrates the use of Advanced Excel formulas and logical functions for employee data analysis and performance evaluation.
+This repository contains my **Advanced Excel Practice Sheet Project** with multiple real-world business and logical problem-solving tasks using Excel formulas and functions.
 
-🛠️ Skills Used
-IF Function
-Nested IF
-AND & OR Functions
-COUNTIF
-AVERAGEIF
-Employee Data Analysis
-📌 Features
+## 🚀 Topics Covered
 
-✔ Bonus Eligibility Calculation
-✔ Income Group Classification
-✔ Attendance Reward Analysis
-✔ Top Performer Identification
-✔ Performance Categorization
-✔ Sales Analysis
+* IF & Nested IF Functions
+* AND & OR Logical Conditions
+* VLOOKUP
+* COUNTIF, SUMIF & AVERAGEIF
+* Employee Performance Analysis
+* Student Result & Scholarship Analysis
+* Product Inventory Management
+* HR & Business Decision-Making Tasks
 
-🚀 Learning Outcome
+## 📌 Project Tasks
 
-Improved practical understanding of Excel formulas, logical conditions, and business data analysis.
+### Task 1 – Employee Data Analysis
 
-👩‍💻 Author
+* Bonus Eligibility
+* Income Group Classification
+* Performance Evaluation
 
-Shifali
-Aspiring Data Analyst | Excel Learner
+### Task 2 – Student Performance Analysis
+
+* Total Marks & Percentage
+* Scholarship Eligibility
+* Grade Classification
+
+### Task 3 – Product Inventory Management
+
+* Stock Analysis
+* Product Classification
+* VLOOKUP & SUMIF Practice
+
+### Task 4 – HR Decision Analysis
+
+* Promotion Eligibility
+* Employee Retention Analysis
+* High-Risk Employee Identification
+
+## 🛠️ Tools Used
+
+* Microsoft Excel
+* Logical Functions
+* Lookup Functions
+* Data Analysis Techniques
+
+## 📈 Learning Outcome
+
+This project helped me improve my practical Excel skills, logical thinking, and business-oriented data analysis abilities.
+
+## 👩‍💻 Author
+
+**Shifali**
+Aspiring Data Analyst | Excel Learner | Power BI Enthusiast
